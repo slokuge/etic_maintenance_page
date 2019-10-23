@@ -1,5 +1,5 @@
 function sayHello () {
-	window.alert("Hellooo you !");
+	window.alert("l'adresse est : responsable.dsi@etic-insa.com");
 };
 
 document.getElementById("hello_btn").addEventListener("click", sayHello); 
